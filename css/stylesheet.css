@@ -1,0 +1,32 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    float: right;
+    display: inline-block;
+    margin-top: 10vh;
+    margin-right: 20vw;
+    min-height: 30vh;
+    
+}
+
+form{
+    float: left;
+    display: inline-block;
+    min-width: 20vw;
+    min-height: 30vh;
+    margin-left: 25vw;
+    margin-top: 10vh;
+
+}
+form *{
+    display: block;
+    padding:3px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: 5vw;
+}
+
